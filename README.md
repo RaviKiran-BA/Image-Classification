@@ -1,6 +1,6 @@
 # CODTECH-TASK4
 
-### Get Dataset from: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
+### Get the dataset from: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
 
 **Name**: Ravi Kiran B A\
 **Company**: CODTECH IT SOLUTIONS\
