@@ -76,8 +76,7 @@ Programming Languages: Python
 
 ### Class Distributions of Predictions
 
-
-
+![Class_Distribution_of_Predictions](https://github.com/user-attachments/assets/bfb89796-bfd2-40b5-b322-433b71d5ab9d)
 
 ## Conclusion
 The project successfully demonstrates the application of deep learning techniques to the classification of rice images. 
