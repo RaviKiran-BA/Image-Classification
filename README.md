@@ -68,7 +68,7 @@ Programming Languages: Python
 
 ### Accuracy
 
-
+![Accuracy](https://github.com/user-attachments/assets/57b47484-6bf0-492f-87f9-1901ecb4c943)
 
 ### Confusion Matrix
 
