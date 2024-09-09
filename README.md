@@ -80,8 +80,7 @@ Programming Languages: Python
 
 ## Conclusion
 The project successfully demonstrates the application of deep learning techniques to the classification of rice images. 
-By comparing a custom-built CNN model with a fine-tuned MobileNetV2 model, we were able to achieve effective classification results. 
-The fine-tuned MobileNetV2 model, in particular, showed improved accuracy, demonstrating the effectiveness of transfer learning for this task.
+By comparing a custom-built CNN model, we were able to achieve effective classification results.
 
 ## Acknowledgements
 - **TensorFlow/Keras**
