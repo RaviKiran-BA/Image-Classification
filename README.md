@@ -72,7 +72,7 @@ Programming Languages: Python
 
 ### Confusion Matrix
 
-
+![Confusion_Matrix](https://github.com/user-attachments/assets/ac534792-5761-4883-adaf-824030e489b8)
 
 ### Class Distributions of Predictions
 
