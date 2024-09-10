@@ -15,7 +15,7 @@
 
 ## Objective
 The objective of this project is to develop and evaluate deep learning models for classifying rice images into different categories. 
-This includes training a custom Convolutional Neural Network (CNN) and fine-tuning a pre-trained MobileNetV2 model to achieve high accuracy in rice image classification.
+This includes training a custom Convolutional Neural Network (CNN) to achieve high accuracy in rice image classification.
 
 ## Key Activities
 - **Data Preparation**
